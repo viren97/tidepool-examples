@@ -65,4 +65,4 @@ Each one has its own workflow with a path filter, so they still build and get ta
 - `web`: a small static page served by a minimal container, configured through env vars at startup
 
 ## License
-To be decided (same as Tidepool).
+[Apache License 2.0](LICENSE). Fork it, change it, ship it.
